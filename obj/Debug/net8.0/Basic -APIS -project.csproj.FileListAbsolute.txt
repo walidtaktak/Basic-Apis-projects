@@ -1,0 +1,67 @@
+D:\Basic -APIS -project\bin\Debug\net8.0\appsettings.Development.json
+D:\Basic -APIS -project\bin\Debug\net8.0\appsettings.json
+D:\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.exe
+D:\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.deps.json
+D:\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.runtimeconfig.json
+D:\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.dll
+D:\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.pdb
+D:\Basic -APIS -project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Basic -APIS -project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Basic -APIS -project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Basic -APIS -project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.csproj.AssemblyReference.cache
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.AssemblyInfoInputs.cache
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.AssemblyInfo.cs
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.csproj.CoreCompileInputs.cache
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.MvcApplicationPartsAssemblyInfo.cs
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.MvcApplicationPartsAssemblyInfo.cache
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.build.json
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.development.json
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets\msbuild.Basic -APIS -project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets\msbuild.build.Basic -APIS -project.props
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Basic -APIS -project.props
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Basic -APIS -project.props
+D:\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Basic -APIS -project\obj\Debug\net8.0\scopedcss\bundle\Basic -APIS -project.styles.css
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -A.DF092870.Up2Date
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.dll
+D:\Basic -APIS -project\obj\Debug\net8.0\refint\Basic -APIS -project.dll
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.pdb
+D:\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.genruntimeconfig.cache
+D:\Basic -APIS -project\obj\Debug\net8.0\ref\Basic -APIS -project.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.exe
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.deps.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.runtimeconfig.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Basic -APIS -project.pdb
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\scopedcss\bundle\Basic -APIS -project.styles.css
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -A.DF092870.Up2Date
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\refint\Basic -APIS -project.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.pdb
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\Basic -APIS -project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net8.0\ref\Basic -APIS -project.dll

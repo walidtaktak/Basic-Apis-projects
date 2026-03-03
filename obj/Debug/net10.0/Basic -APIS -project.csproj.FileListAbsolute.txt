@@ -1,0 +1,33 @@
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\BasicAPIsProject.exe
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\BasicAPIsProject.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -APIS -project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -APIS -project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -APIS -project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -APIS -project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -APIS -project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\BasicAPIsProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\BasicAPIsProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\scopedcss\bundle\BasicAPIsProject.styles.css
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\BasicAPIsProject.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\refint\BasicAPIsProject.dll
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\BasicAPIsProject.pdb
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\BasicAPIsProject.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\BasicAPIsProject.deps.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\BasicAPIsProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\bin\Debug\net10.0\BasicAPIsProject.pdb
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -A.DF092870.Up2Date
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\Basic -APIS -project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Mes dossiers\co_pilot\Basic -APIS -project\obj\Debug\net10.0\ref\BasicAPIsProject.dll

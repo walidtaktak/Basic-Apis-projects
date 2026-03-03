@@ -1,0 +1,6 @@
+@Basic__APIS__project_HostAddress = http://localhost:5243
+
+GET {{Basic__APIS__project_HostAddress}}/users/
+Accept: application/json
+
+###
