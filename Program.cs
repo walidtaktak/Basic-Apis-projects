@@ -5,10 +5,8 @@ using System.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1️⃣ SERVICES
 builder.Services.AddOpenApi();
 
-// ✅ FIX CORS : Indispensable pour que React (5173) puisse parler à C# (5243)
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
@@ -19,7 +17,6 @@ builder.Services.AddCors(options =>
     });
 });
 
-// ✅ HttpClient (On le garde prêt pour quand tu auras une nouvelle clé)
 builder.Services.AddHttpClient("openai", client =>
 {
     client.BaseAddress = new Uri("https://api.openai.com/");
@@ -29,24 +26,15 @@ builder.Services.AddHttpClient("openai", client =>
 
 var app = builder.Build();
 
-// 2️⃣ PIPELINE
 app.MapOpenApi();
-app.UseCors("AllowReactApp"); // Toujours avant les routes !
-
-// ✅ On désactive la redirection HTTPS forcée en local pour éviter les soucis de certificats
-// app.UseHttpsRedirection(); 
-
-// ──────────────────────────────────────
-// ROUTE CHATBOT :
-// ──────────────────────────────────────
+app.UseCors("AllowReactApp");
 
 app.MapPost("/chatgpt", async (ChatRequest request) =>
 {
     if (string.IsNullOrWhiteSpace(request.Input))
         return Results.BadRequest(new { reply = "Dis moi quelque chose, Simaw !" });
 
-    // 🔬 SIMULATION JUMBO (Évite l'erreur 401 OpenAI)
-    await Task.Delay(800); // Pour simuler le temps de réflexion de l'IA
+    await Task.Delay(800);
     
     string inputLower = request.Input.ToLower();
     string responseText;
@@ -68,13 +56,8 @@ app.MapPost("/chatgpt", async (ChatRequest request) =>
 })
 .WithName("ChatGpt");
 
-// ──────────────────────────────────────
-// ROUTE ATREEMO (PRÉPARATION)
-// ──────────────────────────────────────
-
 app.MapGet("/atreemo/customers", () => 
 {
-    // Simuler des données qui viendront de l'API Atreemo plus tard
     var mockCustomers = new[] {
         new { Id = 1, Name = "Simaw", Segment = "VIP" },
         new { Id = 2, Name = "Jumbo AI", Segment = "Tech" }
@@ -84,10 +67,6 @@ app.MapGet("/atreemo/customers", () =>
 .WithName("GetAtreemoCustomers");
 
 app.Run();
-
-// ──────────────────────────────────────
-// MODELS
-// ──────────────────────────────────────
 
 record ChatRequest(string Input);
 
